@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Computing concepts."
+permalink: /
+---
+
 # Introduction
 
 This is a collection of Computer science concepts that I had learnt over the course of my graduate research. 
