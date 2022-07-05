@@ -6,13 +6,15 @@ This is a collection of Computer science concepts that I had learnt over the cou
 
 The section walks through the concepts of `c++` which I find interesting and worth to have a detailed review.
 
-### `INCLUDE_GAURDS`
+### What is `INCLUDE_GAURDS`
   
-### `vector`
+### Efficient use of `vector`
 
-### `pointers`
+### Importance of `pointers`
   
-### `class` and `template`
+### Revisiting `class`
+
+### `template` - a Powerful tool in `c++`
 
 ---
 
