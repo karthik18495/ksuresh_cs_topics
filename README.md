@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/karthik18495/ksuresh_cs_topics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a collection of Computer science concepts that I had learnt over the course of my graduate research. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Selected Topics of `C++`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The section walks through the concepts of `c++` which I find interesting and worth to have a detailed review.
 
-```markdown
-Syntax highlighted code block
+  ### `INCLUDE_GAURDS`
+  
+  ### `vector`
+  
+  ### `pointers`
+  
+  ### `class` and `template`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Compilers (`g++`)
 
-1. Numbered
-2. List
+The section walks through the concepts of compilers and different flags that is most frequently used in compilation projects. 
 
-**Bold** and _Italic_ and `Code` text
+  ### What is compiling ?
+  
+  ### Stages of compilation
+  
+  ### Flags for compilation
+  
+  ### Shared library compilation
 
-[Link](url) and ![Image](src)
-```
+## Shell scripting (`bash`)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  ### What is shell scripting
+  
+  ### Selected topics in `bash`
+  
+  ### Preliminary automated build systems using `bash`
 
-### Jekyll Themes
+## Introduction to concept of `make` build system
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karthik18495/ksuresh_cs_topics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  ### `make` syntax
+  
+  ### `make` examples with varying project complexity
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Comments and suggestions are highly welcomed. Please contact [Karthik Suresh](https://github.com/karthik18495) at ksv656_at_uregina_dot_ca with suggestions or comments or any further discussions.
