@@ -3,6 +3,7 @@ layout: default
 title: Unit - 01 - Compiling Concepts
 nav_order: 2
 has_children: true
+has_toc: false
 permalink: /unit-01
 ---
 
