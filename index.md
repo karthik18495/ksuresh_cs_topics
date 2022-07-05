@@ -56,7 +56,4 @@ The section walks through the concepts of compilers and different flags that is 
   
 ### `make` examples with varying project complexity
 
----
-### Support or Contact
 
-Comments and suggestions are highly welcomed. Please contact [Karthik Suresh](https://github.com/karthik18495) at ksv656_at_uregina_dot_ca with suggestions or comments or any further discussions.
