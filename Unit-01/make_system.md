@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Compiler
+title: Make system
 parent: Unit:01 - Compiling concepts
 nav_order: 4
 ---
 
-# Compiler (`c++`)
+# Make build system (`c++`)
 {: .no_toc }
 
 ## Table of contents
