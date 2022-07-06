@@ -3,7 +3,6 @@ layout: default
 title: Unit - 01 - Compiling Concepts
 nav_order: 2
 has_children: true
-has_toc: false
 permalink: /unit-01
 ---
 
@@ -12,15 +11,4 @@ permalink: /unit-01
 This unit mainly highlights concepts from `c++` and how a compiler works. 
 
 ---
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
