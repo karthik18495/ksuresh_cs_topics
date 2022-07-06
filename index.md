@@ -22,6 +22,8 @@ Through out the Document,
 
 &#128512;
 
+<span class="ec ec-black-circle"></span>
+
 :exclamation:
 
 :bangbang:

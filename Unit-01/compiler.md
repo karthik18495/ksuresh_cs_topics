@@ -26,6 +26,8 @@ In what follows `g++` compiler is what I would be using.
 
 A compiler is a special program that translates a programming language's source code into machine code, byte code or another programming language. The source code is typically written in a high level, human-readable language such as `Java` or `c++`
 
+<span class="ec ec-black-circle"></span>
+
 >:bangbang:
 >This is a note that is written
 
