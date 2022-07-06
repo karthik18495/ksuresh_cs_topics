@@ -9,11 +9,3 @@ permalink: /unit-01
 {: .no_toc}
 
 This unit mainly highlights concepts from `c++` and how a compiler works.
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
