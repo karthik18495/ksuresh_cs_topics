@@ -5,12 +5,15 @@ parent: Unit:01 - Compiling concepts
 nav_order: 1
 ---
 
-## Table of contents
 
+
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 ## What are `INCLUDE_GUARDS`
 
