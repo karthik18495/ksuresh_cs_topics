@@ -9,3 +9,9 @@ permalink: /unit-01
 {: .no_toc}
 
 This unit mainly highlights concepts from `c++` and how a compiler works.
+{: .flex-justify-between}
+
+<div class="alert alert-warning" role="alert">
+  <strong> :warning: Note </strong>
+  Be careful since this is a warning message.
+</div>
