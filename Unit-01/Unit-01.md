@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit - 01 - Compiling Concepts
+title: Unit:01 - Compiling concepts
 nav_order: 2
 has_children: true
 permalink: /unit-01
