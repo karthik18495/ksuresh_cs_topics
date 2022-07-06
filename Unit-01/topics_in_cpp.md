@@ -5,7 +5,8 @@ parent: Unit:01 - Compiling concepts
 nav_order: 1
 ---
 
-
+# Concepts of `c++`
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
