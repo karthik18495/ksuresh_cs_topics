@@ -16,13 +16,12 @@ nav_order: 1
 
 ---
 
-## Font stack
+## What is a compiler
 
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
+In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
 
-```scss
-system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-```
+In what follows `g++` compiler is what I would be using. 
+
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
