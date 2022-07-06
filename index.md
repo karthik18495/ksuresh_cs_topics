@@ -20,7 +20,7 @@ Through out the Document,
 
 :beginner: This is a test
 
-:name_badge:
+&#128512;
 
 :exclamation:
 
