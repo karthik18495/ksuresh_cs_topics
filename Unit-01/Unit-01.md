@@ -11,7 +11,7 @@ permalink: /unit-01
 This unit mainly highlights concepts from `c++` and how a compiler works.
 {: .flex-justify-between}
 
-<div class="alert alert-warning" role="alert">
-  <strong> :warning: Note </strong>
-  Be careful since this is a warning message.
+<div class="alert alert-warning" role="alert" style="width: 50%; align: right">
+  <p style="text-align: center"><strong> :warning: Note </strong>
+  Be careful since this is a warning message. </p>
 </div>
