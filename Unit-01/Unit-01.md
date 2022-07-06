@@ -12,7 +12,7 @@ This unit mainly highlights concepts from `c++` and how a compiler works.
 {: .flex-justify-between}
 
 :warning: **Note** : This is a warning message.
-{: .text-yellow-000}
+{: .bg-yellow-000}
 
 <div class="alert alert-warning" role="alert" style="width: 50%; align: right">
   <p style="text-align: center"><strong> :warning: Note </strong>
