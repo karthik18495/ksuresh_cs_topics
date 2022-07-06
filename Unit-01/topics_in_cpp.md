@@ -5,6 +5,13 @@ parent: Unit:01 - Compiling concepts
 nav_order: 1
 ---
 
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## What are `INCLUDE_GUARDS`
 
 Include guards ensure that the headers are not called more than once during the time of project compilation.
@@ -23,15 +30,12 @@ class A {
 
   private:
     string _name, int _number;
-
   public:
-
     void setValues(string Name, int Number)
     {
       _name = Name;
-    _number = Number;
+      _number = Number;
     }
-
     void printValues()
     {
       std::cout << "Name is " << _name << " and Number is " << _number << std::endl;
