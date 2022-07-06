@@ -5,7 +5,7 @@ parent: Unit:01 - Compiling concepts
 nav_order: 1
 ---
 
-# Concepts of `c++`
+# Selected Topics in `c++`
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-## What are `INCLUDE_GUARDS`
+## What are `INCLUDE_GUARDS` ?
 
 Include guards ensure that the headers are not called more than once during the time of project compilation.
 
